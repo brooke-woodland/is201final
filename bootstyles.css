@@ -1,0 +1,44 @@
+/*Brooke Woodland 12.17.21*/
+body{
+    background-image: url("../images/groovy.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.heading-upper{
+    padding-top: 60px;
+    color: white;
+    font-weight: 600;
+    font-family: Lola;
+    text-align:right;
+}
+.heading-lower{
+    color: white;
+    font-weight: lighter;
+    font-family: Raleway;
+    font-size: 100px;
+    text-align:right;
+}
+.navigation{
+    background-color: rgb(3, 152, 158);
+    height: 10%;
+    text-align: center;
+    font-family: Raleway;
+    color: white;
+    text-transform: uppercase;
+    background-position-y: center;
+    background-size: contain
+}
+footer{
+    margin-top: 30px;
+    text-align: center;
+    font-family: Raleway;
+    background-color: rgb(255, 189, 89);
+    color: white;
+    width: 100%;
+}
+.caption{
+    font-size: 20px;
+    color: white;
+    font-family: Raleway;
+}
