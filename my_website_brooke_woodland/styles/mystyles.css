@@ -1,0 +1,82 @@
+/*Brooke Woodland 12.17.21*/
+body{
+    background-image: url("../images/groovy.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.boxed{
+    background-image: url("../images/green\ blob\ \(2\).png");
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-size: contain;
+    padding-left: 40%;
+    padding-top: 50px;
+    color: white;
+    height: 150%;
+    font-family: Raleway;
+}
+.heading-upper{
+    padding-top: 60px;
+    color: white;
+    font-weight: 600;
+    font-family: Lola;
+    text-align:right;
+}
+iframe{
+    display: block;
+    margin-left: auto;
+    margin-right:auto;
+}
+.heading-lower{
+    color: white;
+    font-weight: lighter;
+    font-family: Raleway;
+    font-size: 100px;
+    text-align:right;
+}
+.navigation{
+    background-color: rgb(3, 152, 158);
+    height: 10%;
+    text-align: center;
+    font-family: Raleway;
+    color: white;
+    text-transform: uppercase;
+    background-position-y: center;
+    background-size: contain;
+}
+footer{
+    margin-top: 30px;
+    text-align: center;
+    font-family: Raleway;
+    background-color: rgb(255, 189, 89);
+    color: white;
+}
+.website{
+   background-image: url("../images/mellow.png");
+   text-align: center;
+   font-family: Raleway;
+   color: white;
+   background-repeat: no-repeat;
+   background-position-x: center;
+   background-position-y: center;
+   background-size: contain;
+   height: 150%;
+   font-size: 50px;
+   padding-bottom: 150px;
+}
+.column {
+    float: left;
+    width: 50%;
+    padding: 5px;
+  }
+  
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+.family{
+    display: block;
+    margin-left: auto;
+    margin-right:auto;
+}
